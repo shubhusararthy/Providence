@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file for your GitHub repository:
-
----
-
 # LifeByte
 
 LifeByte is a personalized healthcare application designed to help users monitor their health and well-being. By integrating demographic, health, location, dietary, and fitness data, the app provides tailored wellness plans, exercise routines, diet recommendations, and health alerts to enhance overall well-being.
